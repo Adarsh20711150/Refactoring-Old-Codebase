@@ -324,4 +324,9 @@ Animal's A: 4 Animal's B: 5 Dog's d: 6 Dog's e: 7
 Animal's A: 4 Animal's B: 5 Cat's f: 8 Cat's g: 9
 
 Structure of all animal is: Multicellular
+
+### Reference
+- https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+- https://blogs.oracle.com/javamagazine/post/refactoring-java-part-2-stabilizing-your-legacy-code-and-technical-debt
+- https://www.perforce.com/blog/qac/8-tips-working-legacy-code
     
