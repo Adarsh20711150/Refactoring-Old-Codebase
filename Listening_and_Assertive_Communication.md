@@ -3,22 +3,22 @@
 
 ### Question 1. What are the steps/strategies to do Active Listening?
 
--- Stop imagining while listening.
--- Pay attention.
--- Body or facial expression to show that one is listening.
--- Show intrest by posture.
--- Reflect what is being said in own words.
--- Ask questions to clarify points and show intrest.
--- Don't interrupt the speaker, let speaker finish before listner speaks about his difference on a point.
--- Maintain good eye contact if possible (take care no one should feel uncomfertable).
--- Take notes during important conversations.
+- Stop imagining while listening.
+- Pay attention.
+- Body or facial expression to show that one is listening.
+- Show intrest by posture.
+- Reflect what is being said in own words.
+- Ask questions to clarify points and show intrest.
+- Don't interrupt the speaker, let speaker finish before listner speaks about his difference on a point.
+- Maintain good eye contact if possible (take care no one should feel uncomfertable).
+- Take notes during important conversations.
 
 ### Question 2. According to Fisher's model, what are the key points of Reflective Listening?
 
--- Focus on conversation and eleminating distraction.
--- Embrace speaker's prespective even at disagreement.
--- Reflect emotional state of speaker with words and noverbal communication.
--- Summarise speaker in own words.
+- Focus on conversation and eleminating distraction.
+- Embrace speaker's prespective even at disagreement.
+- Reflect emotional state of speaker with words and noverbal communication.
+- Summarise speaker in own words.
 
 ### Question 3. What are the obstacles in your listening process?
 
